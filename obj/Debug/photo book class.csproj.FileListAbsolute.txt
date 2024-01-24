@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\photo book class\bin\Debug\photo book class.exe.config
+C:\Users\user\Desktop\photo book class\bin\Debug\photo book class.exe
+C:\Users\user\Desktop\photo book class\bin\Debug\photo book class.pdb
+C:\Users\user\Desktop\photo book class\obj\Debug\photo book class.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\photo book class\obj\Debug\photo book class.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\photo book class\obj\Debug\photo book class.exe
+C:\Users\user\Desktop\photo book class\obj\Debug\photo book class.pdb
